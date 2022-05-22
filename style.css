@@ -291,20 +291,116 @@ font-weight: 500;
 
 .categories__bg-color{
     background-color: #EDF4F4;
-    ;
+    
+}
+.categories__sell{
+   background-color:  #329992;
+
+}
+.sell__title{
+    font-size: 100px;
+    color: white;
+}
+.sell__desc{
+    font-size: 30px;
+    color: white;
+    line-height: 100%;
+    margin-bottom: 50px;
+}
+.vl__sell{
+    
+    border-left: 0.4px solid rgb(251, 168, 26);
+    height: 80px;
+}
+.sell__features{
+    margin-top: 80px;
+    display: flex;
+    color: white;
+    font-size: 37px; 
+    
+    align-items: center;
+    justify-content: center;
+}
+.sell__item{
+    padding:10px;
+    z-index: 1;
 }
 
+.sell__image{
+    position:absolute;
+    left:900px;
+    top: 5300.56px;
+    height: 900px;
+}
+.testimonials__area{
+   padding: 180px;
+}
+.testimonials__title{
+    font-size:70px;
+    color: #031e71;
+}
+.card__area{
+    display:flex;
+    padding:100px;
+}
+.card__testimonials{
+    width: inherit;
+    color:#031e71;
+}
+.card__down{
+    display:flex;
+}
+.testimonials__image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.user__info{
+  
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.user__name{
+    font-size: 17px;
+}
 
+.vl__testimonials{
+    margin-right: 39px;
+    border-left: 0.4px solid rgb(251, 168, 26);
+    height: 400px;
+}
+.last__banner{
+    background-color: #031e71;
+    height:700px;
+}
+.last__banner-image{
+    position:absolute;
+    top:6940px;
+    width: 700px;
+    
+}
+.bannerlast__title {
+font-size:60px;
+ margin-top:120px;
+ color:white;
+ 
 
+}
+.bannerlast__title p{
+    color:rgb(255, 167, 25);
+}
 
-
-
-
-
-
-
-
-
+.browse__button{
+    padding:4px;
+    height: 30px;
+    border:none;
+    width:200px;
+    font-size:16px;
+    border-radius:8px;
+    color:#031e71;
+    font-weight: 600;
+}
 
 
 
